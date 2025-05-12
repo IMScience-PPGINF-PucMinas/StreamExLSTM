@@ -1,0 +1,16 @@
+/.venv
+/Summaries
+/data/SumMe/eccv16_dataset_summe_google_pool5.h5
+/data/TVSum/eccv16_dataset_tvsum_google_pool5.h5
+/data/frames
+**/__pycache__
+/video_*.mp4
+/video_*.json
+/slstm-vids
+/xlstm-vids
+/mlstm-vids
+/split0-BU
+/summarized_vids
+/data/summarized_frames
+/data/tvsum_videos
+*.DS_Store
