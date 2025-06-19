@@ -1,5 +1,4 @@
 # Streamlined Extended Long Short-Term Memory for Video Skimming
-=====
 PyTorch code for our PRL 2025 paper "Streamlined Extended Long Short-Term Memory for Video Skimming" Enhanced
 by [Leonardo Vilela Cardoso](http://lattes.cnpq.br/6741312586742178),[Barbara Hellen P. Soraggi], [Silvio Jamil F. Guimarães](http://lattes.cnpq.br/8522089151904453) and 
 [Zenilton K. G. Patrocínio Jr](http://lattes.cnpq.br/8895634496108399), 
