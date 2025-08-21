@@ -74,3 +74,15 @@ sh evaluation/evaluate_exp.sh $exp_num $dataset $eval_method
 ```
 For further details about the adopted structure of directories in our implementation, please check line [#6](evaluation/evaluate_exp.sh#L6) and line [#11](evaluation/evaluate_exp.sh#L11) of [`evaluate_exp.sh`](evaluation/evaluate_exp.sh). </div>
 
+## Citations
+If you find this code useful for your research, consider cite our paper:
+```
+@article{cardoso2025streamlined,
+  title={Streamlined extended long short-term memory for video skimming},
+  author={Cardoso, Leonardo Vilela and Soraggi, Barbara Hellen P and Guimar{\~a}es, Silvio Jamil F and Patroc{\'\i}nio Jr, Zenilton KG},
+  journal={Pattern Recognition Letters},
+  year={2025},
+  publisher={Elsevier}
+}
+
+```
